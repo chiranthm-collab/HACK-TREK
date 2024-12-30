@@ -45,7 +45,7 @@ Refer to the `package.json` files in the **backend** and **frontend** directorie
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/chiranthm-collab/HackTrek.git
+git clone https://github.com/chiranthm-collab/HACK-TREK.git
 cd HackTrek
 ```
 
